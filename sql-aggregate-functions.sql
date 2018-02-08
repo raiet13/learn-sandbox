@@ -15,7 +15,7 @@ SELECT MIN(column_name) FROM table_name;
 SELECT MAX(column_name) FROM table_name;
 
 SELECT COUNT(column_name) FROM table_name;
-SELECT COUNT(*) FROM cats WHERE net_worth > 1000000;
+  SELECT COUNT(*) FROM cats WHERE net_worth > 1000000;
 
 
 */
